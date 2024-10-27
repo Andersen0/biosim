@@ -7,7 +7,7 @@ the programming language. Rossumøya consists of four different landscape types 
 The interaction between the various modules in the BisSim project simulates annual cycles on the island, which include eating, procreation, migration, aging and death. The simulation is visualized through various plotting tools from Matplotlib.
 
 # Part of the INF200 Advanced Programming course
-# About this course
+### About this course
 * Programming tools: development environment and version control
 * Object-oriented programming in Python
 * Scientific computing in Python
